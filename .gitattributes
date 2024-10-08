@@ -17,3 +17,6 @@
 *.bat linguist-vendored
 *.def linguist-vendored
 *.lib linguist-vendored
+*.lng linguist-vendored
+*.ico linguist-vendored
+*.gif linguist-vendored
