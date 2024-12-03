@@ -1,4 +1,6 @@
-Serial Port Example
+# Serial Port Example
+
+GetCommModemStatus, GetCommState, SetCommState
 
 ![image](https://github.com/chunmingwang/VisualFBEditor/blob/master/Examples/SerialPort/SerialPort.png)
 
